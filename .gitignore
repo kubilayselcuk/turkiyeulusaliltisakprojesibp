@@ -1,0 +1,12 @@
+# Local generation script and machine-specific paths.
+build_map.py
+data_src/
+*.rar
+
+# Python/cache/editor noise.
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
